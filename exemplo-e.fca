@@ -1,0 +1,6 @@
+resultado1 = 10 /\ 5; 
+ESCREVER("10 > 5");
+ESCREVER(resultado1);
+resultado2 = 20 \/ 15; 
+ESCREVER("20 > 5");
+ESCREVER(resultado2);

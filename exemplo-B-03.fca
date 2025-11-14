@@ -1,0 +1,5 @@
+valor = ENTRADA();
+ate10 = ALEATORIO(10);
+ESCREVER (ate10);
+resultado1 = valor /\ ate10; 
+ESCREVER(resultado1);
